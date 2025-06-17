@@ -1,1 +1,1 @@
-virtual-assistantbysoham.netlify.app
+https://virtual-assistantbysoham.netlify.app/
