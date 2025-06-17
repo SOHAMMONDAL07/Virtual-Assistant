@@ -1,1 +1,1 @@
-virtual-assitant.netlify.app
+virtual-assistant.netlify.app
